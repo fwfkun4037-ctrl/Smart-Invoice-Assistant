@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "智能开票助手", "智能开票助手.vbproj", "{0F56DAA8-488A-4CF0-A787-C8A7D3926148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F56DAA8-488A-4CF0-A787-C8A7D3926148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F56DAA8-488A-4CF0-A787-C8A7D3926148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F56DAA8-488A-4CF0-A787-C8A7D3926148}.Debug|x86.ActiveCfg = Release|x86
+		{0F56DAA8-488A-4CF0-A787-C8A7D3926148}.Debug|x86.Build.0 = Release|x86
+		{0F56DAA8-488A-4CF0-A787-C8A7D3926148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F56DAA8-488A-4CF0-A787-C8A7D3926148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F56DAA8-488A-4CF0-A787-C8A7D3926148}.Release|x86.ActiveCfg = Release|x86
+		{0F56DAA8-488A-4CF0-A787-C8A7D3926148}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23695E14-DAE8-400D-BBF9-B5693FD6A9D6}
+	EndGlobalSection
+EndGlobal
